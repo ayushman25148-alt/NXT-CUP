@@ -1,1 +1,1 @@
-# NXT-CUP
+# NXT_CUP
